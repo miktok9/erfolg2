@@ -447,7 +447,6 @@ Frauen in der Kunst der Etrusker
 Frauen und griechische Mythen
 Frauen in der römischen Religion
 römische Frauen und Wirtschaft
-Frauen in der griechischen Mythologie
 Frauen und römische Militär
 weibliche Dichterinnen der Antike
 Frauen und griechische Wissenschaft
@@ -462,7 +461,6 @@ Frauen in der antiken Architektur
 Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
-Frauen in der griechischen Mythologie
 Frauen in der römischen Landwirtschaft
 Frauen und griechische Politik
 Frauen in der altägyptischen Religion
@@ -483,7 +481,6 @@ Frauen in der altägyptischen Kultur
 Frauen und griechische Künste
 Frauen in der römischen Architektur
 Frauen und antike Wissenschaft
-Frauen in der griechischen Mythologie
 Frauen in der römisch-katholischen Kirche
 Frauen und griechische Rituale
 Frauen in der antiken Wirtschaft
