@@ -310,7 +310,6 @@ Tanzkunst der antiken Kultur
 Königinnen der Khmer
 Frauen in der altägyptischen Mathematik
 Frauen in der römischen Architektur
-Frauen in der römischen Politik
 Königinnen der Azteken
 Frauen in der babylonischen Astronomie
 Frauen in der römischen Gerichtsbarkeit
@@ -329,7 +328,6 @@ Rolle der Priesterinnen in Mesopotamien
 Frauen in der römischen Medizin
 Königinnen der alten Kulturen
 Frauen in der sumerischen Kultur
-Frauen in der römischen Politik
 Frauen in der römischen Architektur
 Frauen in der antiken Malerei
 Königinnen der Antike
@@ -465,7 +463,6 @@ Frauen und griechische Sitten
 Frauen im antiken Griechenland
 Frauen in der römischen Gesellschaft
 Frauen in der griechischen Wissenschaft
-Frauen in der römischen Politik
 Frauen und antike Philosophie
 Frauen in der altägyptischen Kultur
 Frauen und griechische Künste
@@ -485,7 +482,6 @@ Frauen in der römischen Wissenschaft
 Frauen in der griechischen Geschichte
 Frauen und römische Gesetze
 Frauen in der altägyptischen Kunst
-Frauen in der römischen Politik
 Frauen und antike Kultur
 Frauen in der römischen Religion
 Frauen und griechische Bräuche
@@ -562,7 +558,6 @@ Frauen im antiken Griechenland
 Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
 Frauen in der griechischen Wissenschaft
-Frauen in der römischen Politik
 Frauen und antike Philosophie
 Frauen in der altägyptischen Kultur
 Frauen in der römischen Kunst
@@ -584,7 +579,6 @@ Frauen in der römischen Wissenschaft
 Frauen in der griechischen Geschichte
 Frauen und römische Gesetze
 Frauen in der altägyptischen Kunst
-Frauen in der römischen Politik
 Frauen und antike Kultur
 Frauen in der römischen Religion
 Frauen und griechische Bräuche
