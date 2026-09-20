@@ -369,7 +369,6 @@ Frauen im antiken Babylon
 Frauen und römische Kultur
 Frauen und römische Wirtschaft
 Frauen in der römischen Gesellschaft
-Frauen in der griechischen Wissenschaft
 Frauen und antike Philosophie
 Frauen in der altägyptischen Kultur
 Frauen in der römisch-katholischen Kirche
@@ -430,7 +429,6 @@ Frauen und römische Kultur
 Frauen und römische Wirtschaft
 Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
-Frauen in der griechischen Wissenschaft
 Frauen und antike Philosophie
 Frauen in der altägyptischen Kultur
 Frauen in der römischen Kunst
@@ -507,7 +505,6 @@ Frauen und römische Wirtschaft
 Frauen und griechische Sitten
 Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
-Frauen in der griechischen Wissenschaft
 Frauen in der römischen Politik
 Frauen und antike Philosophie
 Frauen in der altägyptischen Kultur
