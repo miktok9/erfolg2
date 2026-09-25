@@ -351,7 +351,6 @@ Frauen und griechische Politik
 Frauen in der griechischen Tragödie
 Frauen in der Etrusker-Kunst
 Frauen im antiken Babylon
-Frauen und römische Kultur
 Frauen und römische Wirtschaft
 Frauen in der römischen Gesellschaft
 Frauen und antike Philosophie
@@ -405,7 +404,6 @@ Frauen in der griechischen Tragödie
 Frauen in der Etrusker-Kunst
 Frauen und antike Musik
 Frauen im antiken Babylon
-Frauen und römische Kultur
 Frauen und römische Wirtschaft
 Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
@@ -472,7 +470,6 @@ Frauen in der griechischen Tragödie
 Frauen in der Etrusker-Kunst
 Frauen und antike Musik
 Frauen im antiken Babylon
-Frauen und römische Kultur
 Frauen und römische Wirtschaft
 Frauen und griechische Sitten
 Frauen in der römischen Gesellschaft
