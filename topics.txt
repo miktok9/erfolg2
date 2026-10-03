@@ -325,7 +325,6 @@ römische Frauen und Bildung
 Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
-Frauen in der griechischen Tragödie
 Frauen in der Etrusker-Kunst
 Frauen im antiken Babylon
 Frauen in der römischen Gesellschaft
@@ -368,7 +367,6 @@ Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen und antike Astronomie
-Frauen in der griechischen Tragödie
 Frauen in der Etrusker-Kunst
 Frauen und antike Musik
 Frauen im antiken Babylon
@@ -424,7 +422,6 @@ Frauen im antiken China
 römische Frauen und Medizin
 Frauen in der griechischen Mythologie
 Frauen und antike Astronomie
-Frauen in der griechischen Tragödie
 Frauen in der Etrusker-Kunst
 Frauen und antike Musik
 Frauen im antiken Babylon
@@ -508,7 +505,6 @@ römische Frauen und Medizin
 Frauen in der griechischen Mythologie
 Frauen und antike Astronomie
 Frauen in der altägyptischen Religion
-Frauen in der griechischen Tragödie
 Frauen und römische Bräuche
 Frauen in der Etrusker-Kunst
 Frauen und antike Musik
