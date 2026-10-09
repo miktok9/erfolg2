@@ -241,7 +241,6 @@ Frauen in der antiken Malerei
 Königinnen der Antike
 Rolle der Priesterinnen im alten Rom
 Frauen in der antiken Astrologie
-Frauen in der römischen Gesellschaft
 Frauen in der antiken Rechtswissenschaft
 Athenische Frauen und Olymp
 Frauenhandel im antiken Griechenland
@@ -311,7 +310,6 @@ Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen im antiken Babylon
-Frauen in der römischen Gesellschaft
 Frauen in der altägyptischen Kultur
 Frauen in der römisch-katholischen Kirche
 Frauen in der römischen Mythologie
@@ -347,7 +345,6 @@ römische Frauen und Medizin
 Frauen und antike Astronomie
 Frauen und antike Musik
 Frauen im antiken Babylon
-Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
 Frauen in der altägyptischen Kultur
 Frauen in der römischen Kunst
@@ -395,7 +392,6 @@ Frauen und antike Astronomie
 Frauen und antike Musik
 Frauen im antiken Babylon
 Frauen und griechische Sitten
-Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
 Frauen in der römischen Politik
 Frauen in der altägyptischen Kultur
@@ -470,7 +466,6 @@ Frauen und römische Kultur
 Frauen in der griechischen Komödie
 Frauen und griechische Sitten
 Frauen im antiken Griechenland
-Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
 Frauen in der griechischen Wissenschaft
 Frauen in der römischen Politik
@@ -564,7 +559,6 @@ Frauen in der griechischen Komödie
 Frauen und römische Wirtschaft
 Frauen und griechische Sitten
 Frauen im antiken Griechenland
-Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
 Frauen in der griechischen Wissenschaft
 Frauen in der römischen Politik
