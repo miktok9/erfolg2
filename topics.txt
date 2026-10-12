@@ -293,7 +293,6 @@ Rolle der Frauen in der babylonischen Justiz
 Frauen in der ägyptischen Medizin
 Frauen und griechische Komödie
 Frauen und griechische Mythen
-Frauen in der römischen Religion
 weibliche Dichterinnen der Antike
 Frauen und griechische Wissenschaft
 Frauen in der altägyptischen Gesellschaft
@@ -308,7 +307,6 @@ Frauen in der römischen Mythologie
 Frauen in der altägyptischen Medizin
 Frauen in der griechischen Literatur
 Frauen in der römischen Wissenschaft
-Frauen in der römischen Religion
 Frauen und griechische Bräuche
 Pythagoras und seine Anhängerinnen
 Weisheit der babylonischen Königinnen
@@ -323,7 +321,6 @@ Rolle der Frauen in der babylonischen Justiz
 Frauen in der ägyptischen Medizin
 Frauen und griechische Komödie
 Frauen und griechische Mythen
-Frauen in der römischen Religion
 weibliche Dichterinnen der Antike
 Frauen und griechische Wissenschaft
 Frauen in der altägyptischen Gesellschaft
@@ -343,7 +340,6 @@ Frauen in der römischen Mythologie
 Frauen in der altägyptischen Medizin
 Frauen in der griechischen Literatur
 Frauen in der römischen Wissenschaft
-Frauen in der römischen Religion
 Frauen und griechische Bräuche
 Frauen in der sumerischen Kultur
 Pythagoras und seine Anhängerinnen
@@ -363,7 +359,6 @@ Rolle der Frauen in der babylonischen Justiz
 Frauen in der ägyptischen Medizin
 Frauen und griechische Komödie
 Frauen und griechische Mythen
-Frauen in der römischen Religion
 Frauen in der griechischen Mythologie
 weibliche Dichterinnen der Antike
 Frauen und griechische Wissenschaft
@@ -396,7 +391,6 @@ Frauen in der römischen Philosophie
 Frauen in der römischen Wissenschaft
 Frauen in der römischen Politik
 Frauen und antike Kultur
-Frauen in der römischen Religion
 Frauen und griechische Bräuche
 Frauen in der sumerischen Kultur
 Pythagoras und seine Anhängerinnen
@@ -427,7 +421,6 @@ Frauen und griechische Komödie
 Frauen als römische Senatoren
 Frauen in der Kunst der Etrusker
 Frauen und griechische Mythen
-Frauen in der römischen Religion
 römische Frauen und Wirtschaft
 Frauen in der griechischen Mythologie
 weibliche Dichterinnen der Antike
@@ -469,7 +462,6 @@ Frauen in der römischen Wissenschaft
 Frauen in der griechischen Geschichte
 Frauen in der römischen Politik
 Frauen und antike Kultur
-Frauen in der römischen Religion
 Frauen und griechische Bräuche
 Frauenrechte im antiken Athen
 Mutterschaft im römischen Recht
@@ -507,7 +499,6 @@ Frauen als römische Senatoren
 Frauen in der Kunst der Etrusker
 Frauen und griechische Mythen
 Königinnen der alten Welt
-Frauen in der römischen Religion
 römische Frauen und Wirtschaft
 Frauen in der griechischen Mythologie
 Frauen und römische Militär
@@ -564,5 +555,4 @@ Frauen und römische Gesetze
 Frauen in der altägyptischen Kunst
 Frauen in der römischen Politik
 Frauen und antike Kultur
-Frauen in der römischen Religion
 Frauen und griechische Bräuche
