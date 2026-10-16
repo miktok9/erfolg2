@@ -338,7 +338,6 @@ Rolle der Frauen in der babylonischen Justiz
 Frauen in der ägyptischen Medizin
 Frauen und griechische Komödie
 Frauen und griechische Mythen
-Frauen in der griechischen Mythologie
 weibliche Dichterinnen der Antike
 römische Frauen und Kunst
 Frauen und griechische Religion
@@ -347,7 +346,6 @@ Frauen in der antiken Architektur
 Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
-Frauen in der griechischen Mythologie
 Frauen und antike Astronomie
 Frauen und antike Musik
 Frauen und griechische Sitten
@@ -357,7 +355,6 @@ Frauen in der altägyptischen Kultur
 Frauen in der römischen Kunst
 Frauen und griechische Künste
 Frauen in der römischen Architektur
-Frauen in der griechischen Mythologie
 Frauen in der römisch-katholischen Kirche
 Frauen und griechische Rituale
 Frauen in der altägyptischen Medizin
@@ -392,7 +389,6 @@ Frauen als römische Senatoren
 Frauen in der Kunst der Etrusker
 Frauen und griechische Mythen
 römische Frauen und Wirtschaft
-Frauen in der griechischen Mythologie
 weibliche Dichterinnen der Antike
 römische Frauen und Kunst
 Frauen und griechische Religion
@@ -403,7 +399,6 @@ Frauen in der antiken Architektur
 Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
-Frauen in der griechischen Mythologie
 Frauen und antike Astronomie
 Frauen und römische Bräuche
 Frauen und antike Musik
@@ -417,7 +412,6 @@ Frauen in der altägyptischen Kultur
 Frauen in der römischen Kunst
 Frauen und griechische Künste
 Frauen in der römischen Architektur
-Frauen in der griechischen Mythologie
 Frauen in der römisch-katholischen Kirche
 Frauen und griechische Rituale
 Frauen in der altägyptischen Medizin
@@ -460,7 +454,6 @@ Frauen in der Kunst der Etrusker
 Frauen und griechische Mythen
 Königinnen der alten Welt
 römische Frauen und Wirtschaft
-Frauen in der griechischen Mythologie
 Frauen und römische Militär
 weibliche Dichterinnen der Antike
 römische Frauen und Kunst
@@ -474,7 +467,6 @@ Frauen in der antiken Architektur
 Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
-Frauen in der griechischen Mythologie
 Frauen und antike Astronomie
 Frauen in der römischen Landwirtschaft
 Frauen und griechische Politik
@@ -496,7 +488,6 @@ Frauen in der römischen Kunst
 Frauen und griechische Künste
 Frauen in der römischen Architektur
 Frauen und antike Wissenschaft
-Frauen in der griechischen Mythologie
 Frauen in der römisch-katholischen Kirche
 Frauen und griechische Rituale
 Frauen in der antiken Wirtschaft
