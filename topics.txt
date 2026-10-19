@@ -395,7 +395,6 @@ Frauen und antike Musik
 Frauen und römische Kultur
 Frauen in der griechischen Komödie
 Frauen und griechische Sitten
-Frauen im antiken Griechenland
 Frauen und antike Geschichte
 Frauen in der römischen Politik
 Frauen in der römischen Kunst
@@ -466,7 +465,6 @@ Frauen und römische Kultur
 Frauen in der griechischen Komödie
 Frauen und römische Wirtschaft
 Frauen und griechische Sitten
-Frauen im antiken Griechenland
 Frauen und antike Geschichte
 Frauen in der römischen Politik
 Frauen und antike Philosophie
@@ -554,7 +552,6 @@ Frauen und römische Kultur
 Frauen in der griechischen Komödie
 Frauen und römische Wirtschaft
 Frauen und griechische Sitten
-Frauen im antiken Griechenland
 Frauen in der römischen Gesellschaft
 Frauen und antike Geschichte
 Frauen in der griechischen Wissenschaft
