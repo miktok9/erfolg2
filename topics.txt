@@ -288,7 +288,6 @@ Frauen im antiken China
 römische Frauen und Medizin
 Frauen in der römisch-katholischen Kirche
 Frauen in der altägyptischen Medizin
-Frauen und griechische Bräuche
 Pythagoras und seine Anhängerinnen
 Frauenpriester im alten Mesopotamien
 Rolle der Frauen in der spartanischen Armee
@@ -311,7 +310,6 @@ Frauen und antike Geschichte
 Frauen in der römischen Kunst
 Frauen in der römisch-katholischen Kirche
 Frauen in der altägyptischen Medizin
-Frauen und griechische Bräuche
 Frauen in der sumerischen Kultur
 Pythagoras und seine Anhängerinnen
 Frauenpriester im alten Mesopotamien
@@ -347,7 +345,6 @@ Frauen und griechische Rituale
 Frauen in der altägyptischen Medizin
 Frauen in der römischen Philosophie
 Frauen in der römischen Politik
-Frauen und griechische Bräuche
 Frauen in der sumerischen Kultur
 Pythagoras und seine Anhängerinnen
 Frauen in der griechischen Kunst
@@ -400,7 +397,6 @@ Frauen in der altägyptischen Medizin
 Frauen in der römischen Kultur
 Frauen in der römischen Philosophie
 Frauen in der römischen Politik
-Frauen und griechische Bräuche
 Frauenrechte im antiken Athen
 Mutterschaft im römischen Recht
 Frauen in der sumerischen Kultur
@@ -474,7 +470,6 @@ Frauen in der römischen Philosophie
 Frauen und römische Gesetze
 Frauen in der altägyptischen Kunst
 Frauen in der römischen Politik
-Frauen und griechische Bräuche
 Frauenrechte im antiken Athen
 Mutterschaft im römischen Recht
 Frauen in der sumerischen Kultur
@@ -569,4 +564,3 @@ Frauen in der altägyptischen Kunst
 Frauen in der römischen Politik
 Frauen und antike Kultur
 Frauen in der römischen Religion
-Frauen und griechische Bräuche
