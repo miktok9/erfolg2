@@ -278,7 +278,6 @@ Frauen in der ägyptischen Medizin
 Frauen und griechische Komödie
 Frauen und griechische Mythen
 Frauen und griechische Religion
-Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen in der römisch-katholischen Kirche
@@ -293,7 +292,6 @@ Frauen und griechische Komödie
 Frauen und griechische Mythen
 Frauen und griechische Religion
 Frauen und römische Gesetzgebung
-Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen und antike Astronomie
@@ -318,7 +316,6 @@ römische Frauen und Kunst
 Frauen und griechische Religion
 Frauen und römische Gesetzgebung
 Frauen in der antiken Architektur
-Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen und antike Astronomie
@@ -362,7 +359,6 @@ Frauen in der griechischen Philosophie
 Frauen und römische Gesetzgebung
 Frauen in der griechischen Kunst
 Frauen in der antiken Architektur
-Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen und antike Astronomie
@@ -420,7 +416,6 @@ Frauen und römische Gesetzgebung
 Frauen in der griechischen Kunst
 römische Frauen und Bildung
 Frauen in der antiken Architektur
-Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen und antike Astronomie
@@ -497,7 +492,6 @@ Frauen und römische Gesetzgebung
 Frauen in der griechischen Kunst
 römische Frauen und Bildung
 Frauen in der antiken Architektur
-Frauen und griechische Geschichte
 Frauen im antiken China
 römische Frauen und Medizin
 Frauen in der griechischen Mythologie
