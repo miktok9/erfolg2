@@ -420,7 +420,6 @@ Frauen und griechische Künste
 Frauen in der römischen Architektur
 Frauen und antike Wissenschaft
 Frauen und griechische Rituale
-Frauen in der antiken Wirtschaft
 Frauen und römische Literatur
 Frauen in der altägyptischen Medizin
 Frauen in der römischen Kultur
@@ -495,7 +494,6 @@ Frauen in der römischen Architektur
 Frauen und antike Wissenschaft
 Frauen in der griechischen Mythologie
 Frauen und griechische Rituale
-Frauen in der antiken Wirtschaft
 Frauen in der römischen Mythologie
 Frauen und römische Literatur
 Frauen in der altägyptischen Medizin
